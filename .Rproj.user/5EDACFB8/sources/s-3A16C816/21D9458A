@@ -1,0 +1,32 @@
+{
+    "id": "21D9458A",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1635233291858.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "expression": "england",
+        "caption": "england",
+        "totalObservations": "26",
+        "displayedObservations": "26",
+        "variables": "5",
+        "cacheKey": "26CCB819",
+        "object": "england",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=england&cache_key=26CCB819&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2834950927144,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635233291858,
+    "read_only": false,
+    "read_only_alternatives": []
+}

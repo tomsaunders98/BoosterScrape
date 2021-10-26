@@ -1,0 +1,32 @@
+{
+    "id": "231A5F2F",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634835559610.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "bost",
+        "caption": "bost",
+        "totalObservations": "8",
+        "displayedObservations": "8",
+        "variables": "5",
+        "cacheKey": "241F331A",
+        "object": "bost",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=bost&cache_key=241F331A&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1249852129008,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634835559610,
+    "read_only": false,
+    "read_only_alternatives": []
+}

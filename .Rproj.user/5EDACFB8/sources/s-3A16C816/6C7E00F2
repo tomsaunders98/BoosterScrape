@@ -1,0 +1,32 @@
+{
+    "id": "6C7E00F2",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1635233503681.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "expression": "regions",
+        "caption": "regions",
+        "totalObservations": 26,
+        "displayedObservations": 26,
+        "variables": 8,
+        "cacheKey": "0351DE17",
+        "object": "regions",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=regions&cache_key=0351DE17&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7814402261997941870,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635233503681,
+    "read_only": false,
+    "read_only_alternatives": []
+}

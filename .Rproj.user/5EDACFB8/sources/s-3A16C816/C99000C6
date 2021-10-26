@@ -1,0 +1,32 @@
+{
+    "id": "C99000C6",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634835555460.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "bost_by_age",
+        "caption": "bost_by_age",
+        "totalObservations": "15",
+        "displayedObservations": "15",
+        "variables": "5",
+        "cacheKey": "4590406A",
+        "object": "bost_by_age",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=bost_by_age&cache_key=4590406A&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1634835243,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634835555460,
+    "read_only": false,
+    "read_only_alternatives": []
+}

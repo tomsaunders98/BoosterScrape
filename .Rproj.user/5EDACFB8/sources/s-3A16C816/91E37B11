@@ -1,0 +1,32 @@
+{
+    "id": "91E37B11",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1635185920293.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "ages",
+        "caption": "ages",
+        "totalObservations": "364",
+        "displayedObservations": "364",
+        "variables": "6",
+        "cacheKey": "F16E92F9",
+        "object": "ages",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=ages&cache_key=F16E92F9&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7235440063628845676,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635185920293,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "ECB51E47",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634803597184.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "pop",
+        "caption": "pop",
+        "totalObservations": "80",
+        "displayedObservations": "80",
+        "variables": "3",
+        "cacheKey": "F44905EB",
+        "object": "pop",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=pop&cache_key=F44905EB&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2523190319648,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634803597184,
+    "read_only": false,
+    "read_only_alternatives": []
+}

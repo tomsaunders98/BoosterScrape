@@ -1,0 +1,32 @@
+{
+    "id": "DD7E1993",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634835652129.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "all_age",
+        "caption": "all_age",
+        "totalObservations": "364",
+        "displayedObservations": "364",
+        "variables": "5",
+        "cacheKey": "A004BDDE",
+        "object": "all_age",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=all_age&cache_key=A004BDDE&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 6157667972546457443,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634835652129,
+    "read_only": false,
+    "read_only_alternatives": []
+}
